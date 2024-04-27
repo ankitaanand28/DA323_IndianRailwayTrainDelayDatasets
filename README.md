@@ -28,6 +28,9 @@ This dataset contains information about train delays for express trains running 
 
 
 ## Interactive Visualization (provided with code in jupyter notebook "Scraping&Visualization.ipynb")
+```
+Move the Scraping&Visualization.ipynb notebook in the dataset folder and run the cells to reproduce the plots.
+```
 
 ![image](https://github.com/ankitaanand28/DA323_IndianRailwayTrainDelayDatasets/assets/95133586/fdcc6acc-56b5-4670-8625-afc3501136a6)
 
