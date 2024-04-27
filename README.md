@@ -31,11 +31,11 @@ This dataset contains information about train delays for express trains running 
 
 ![image](https://github.com/ankitaanand28/DA323_IndianRailwayTrainDelayDatasets/assets/95133586/fdcc6acc-56b5-4670-8625-afc3501136a6)
 
-![newplot](https://github.com/ankitaanand28/DA323_IndianRailwayTrainDelayDatasets/assets/95133586/df1c2fe5-e06d-431d-b9ef-e8fe4002703b)
+
 
 ![image](https://github.com/ankitaanand28/DA323_IndianRailwayTrainDelayDatasets/assets/95133586/0a3b90ef-8cfe-41db-855b-ee5fff13efdc)
 
-
+![newplot](https://github.com/ankitaanand28/DA323_IndianRailwayTrainDelayDatasets/assets/95133586/df1c2fe5-e06d-431d-b9ef-e8fe4002703b)
 
 ## Usage
 
@@ -48,6 +48,7 @@ This dataset can be used for various purposes, including:
 ## Citation
 
 If you use this dataset in your research or analysis, please consider citing it as follows:
+```
 @dataset{indian-railways-train-delay-dataset,
 author = {Ankita Anand},
 year = {2024},
@@ -55,7 +56,7 @@ title = {Indian Railways Train Delay Dataset},
 version = {1.0},
 url = {https://github.com/ankitaanand28/DA323_IndianRailwayTrainDelayDatasets}
 }
-
+```
 
 ## License
 
