@@ -1,12 +1,12 @@
 # Indian Railway Express Trains Delay Datasets 
-I have created  this dataset and it contain  one csv file that has all the list of  the  trains connecting Guwahati (Assam) to all the four Metro cities in India namely Delhi, Mumbai, Chennai, and Kolkata. 
-And a folder of csv files that has each train route information with delay information too at each stop.
+I have created  this dataset to provide comprehensive information about train routes, delays, and cancellations for express trains connecting Guwahati (Assam) to major metro cities in India, namely Delhi, Mumbai, Chennai, and Kolkata.
 
 # Indian Railways Train Delay Dataset
 
 ## Overview
 
 This dataset contains information about train delays for express trains running between Guwahati and various cities in India. It includes details such as train number, train name, origin station, destination station, train type, and delay statistics at each station along the route.
+The dataset consists of two parts: a CSV file named "Train List" containing information about express trains connecting Guwahati to metro cities, and a folder "Train_Route" containing CSV files with train route details and delay information
 
 ## Dataset Details
 
