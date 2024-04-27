@@ -29,7 +29,7 @@ The dataset consists of two parts: a CSV file named "Train List" containing info
 
 ## Interactive Visualization (provided with code in jupyter notebook "Scraping&Visualization.ipynb")
 ```
-Move the Scraping&Visualization.ipynb notebook in the dataset folder and run the cells to reproduce the plots.
+Move the Scraping&Visualization.ipynb notebook in the Dataset folder and run the cells to reproduce the plots.
 ```
 
 ![image](https://github.com/ankitaanand28/DA323_IndianRailwayTrainDelayDatasets/assets/95133586/fdcc6acc-56b5-4670-8625-afc3501136a6)
